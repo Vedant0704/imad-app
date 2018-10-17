@@ -1,3 +1,1 @@
-# imad-app
-
-IMAD course application.
+# SDL
